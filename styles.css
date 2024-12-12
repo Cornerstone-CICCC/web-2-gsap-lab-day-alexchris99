@@ -64,6 +64,10 @@ section {
   background-size: 300px;
 }
 
+.space{
+  width: 20px;
+}
+
 h1 {
   font-size: 4rem;
   margin-bottom: 2rem;
